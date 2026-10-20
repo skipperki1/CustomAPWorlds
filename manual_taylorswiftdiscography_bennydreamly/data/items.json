@@ -1,0 +1,181 @@
+[
+  { 
+    "name": "Taylor Swift", 
+    "count": 1, 
+    "category": [
+      "Albums",
+      "Taylor Swift"
+    ], 
+    "progression": true 
+  },
+  { 
+    "name": "Fearless", 
+    "count": 1, 
+    "category": [
+      "Albums",
+      "Fearless"
+    ], 
+    "progression": true 
+  },
+  { 
+    "name": "Fearless (Taylor's Version)", 
+    "count": 1, 
+    "category": [
+      "Albums",
+      "Fearless (Taylor's Version)"
+    ], 
+    "progression": true 
+  },
+  { 
+    "name": "Speak Now", 
+    "count": 1, 
+    "category": [
+      "Albums",
+      "Speak Now"
+    ], 
+    "progression": true 
+  },
+  { 
+    "name": "Speak Now (Taylor's Version)", 
+    "count": 1, 
+    "category": [
+      "Albums",
+      "Speak Now (Taylor's Version)"
+    ], 
+    "progression": true 
+  },
+  { 
+    "name": "Red", 
+    "count": 1, 
+    "category": [
+      "Albums",
+      "Red"
+    ], 
+    "progression": true 
+  },
+  { 
+    "name": "Red (Taylor's Version)", 
+    "count": 1, 
+    "category": [
+      "Albums",
+      "Red (Taylor's Version)"
+    ], 
+    "progression": true 
+  },
+  { 
+    "name": "1989", 
+    "count": 1, 
+    "category": [
+      "Albums",
+      "1989"
+    ], 
+    "progression": true 
+  },
+  { 
+    "name": "1989 (Taylor's Version)", 
+    "count": 1, 
+    "category": [
+      "Albums",
+      "1989 (Taylor's Version)"
+    ], 
+    "progression": true 
+  },
+  { 
+    "name": "Reputation", 
+    "count": 1, 
+    "category": [
+      "Albums",
+      "Reputation"
+    ], 
+    "progression": true 
+  },
+  { 
+    "name": "Lover", 
+    "count": 1, 
+    "category": [
+      "Albums",
+      "Lover"
+    ], 
+    "progression": true 
+  },
+  { 
+    "name": "Folklore", 
+    "count": 1, 
+    "category": [
+      "Albums",
+      "Folklore"
+    ], 
+    "progression": true 
+  },
+  { 
+
+    "name": "Evermore", 
+    "count": 1, 
+    "category": [
+      "Albums",
+      "Evermore"
+    ], 
+    "progression": true 
+  },
+  { 
+
+    "name": "Midnights", 
+    "count": 1, 
+    "category": [
+      "Albums",
+      "Midnights"
+    ], 
+    "progression": true 
+  },
+  { 
+    "name": "The Tortured Poets Department", 
+    "count": 1, 
+    "category": [
+      "Albums",
+      "The Tortured Poets Department"
+    ], 
+    "progression": true 
+  },
+  {
+    "name": "The Life of a Showgirl",
+    "count": 1,
+    "category": [
+      "Albums",
+      "The Life of a Showgirl"
+    ],
+    "progression": true
+  },
+  { 
+    "name": "Vault Tracks", 
+    "count": 1, 
+    "category":  [
+      "Vault Tracks"
+    ], 
+    "progression":  true
+  },
+  { 
+    "name": "Re-recordings", 
+    "count": 1, 
+    "category":  [
+      "Re-recordings"
+    ], 
+    "progression":  true
+  },
+  { 
+    "name": "Singles", 
+    "count": 1, 
+    "category":  [
+      "Albums",
+      "Singles"
+    ], 
+    "progression":  true
+  },
+  { 
+    "name": "Album Variants", 
+    "count": 1, 
+    "category":  [
+      "Filler"
+    ], 
+    "filler":  true
+  }
+]

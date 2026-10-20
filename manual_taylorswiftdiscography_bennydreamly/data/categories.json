@@ -1,0 +1,61 @@
+{
+    "Re-recordings": {
+        "hidden": true,
+        "yaml_option": ["include_re_recordings"]
+    },
+    "Vault Tracks": {
+        "hidden": true,
+        "yaml_option": ["include_vault_tracks"]
+    },
+    "Singles": {
+        "yaml_option": ["include_singles"]
+    },
+    "Taylor Swift": {
+        "yaml_option": ["include_debut"]
+    },
+    "Fearless": {
+        "yaml_option": ["include_fearless"]
+    },
+    "Fearless (Taylor's Version)": {
+        "yaml_option": ["include_fearless_tv"]
+    },
+    "Speak Now": {
+        "yaml_option": ["include_speak_now"]
+    },
+    "Speak Now (Taylor's Version)": {
+        "yaml_option": ["include_speak_now_tv"]
+    },
+    "Red": {
+        "yaml_option": ["include_red"]
+    },
+    "Red (Taylor's Version": {
+        "yaml_option": ["include_red_tv"]
+    },
+    "1989": {
+        "yaml_option": ["include_1989"]
+    },
+    "1989 (Taylor's Version)": {
+        "yaml_option": ["include_1989_tv"]
+    },
+    "Reputation": {
+        "yaml_option": ["include_reputation"]
+    },
+    "Lover": {
+        "yaml_option": ["include_lover"]
+    },
+    "Evermore": {
+        "yaml_option": ["include_evermore"]
+    },
+    "Folklore": {
+        "yaml_option": ["include_folklore"]
+    },
+    "Midnights": {
+        "yaml_option": ["include_midnights"]
+    },
+    "The Tortured Poets Department": {
+        "yaml_option": ["include_ttpd"]
+    },
+    "The Life of a Showgirl": {
+        "yaml_option": ["include_tloas"]
+    }
+}

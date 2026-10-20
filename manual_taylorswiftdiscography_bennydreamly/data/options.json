@@ -1,0 +1,154 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        }
+    },
+    "user": {
+        "include_vault_tracks": {
+            "display_name": "Include Vault Tracks",
+            "description": "Include the (from the vault) tracks in the shuffling",
+            "type": "Toggle",
+            "default": true,
+            "group": "Song Options"
+        },
+        "include_re_recordings": {
+            "display_name": "Include Re-recordings",
+            "description": "Include the rerecorded albums (Taylor's Version) in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_singles": {
+            "display_name": "Include Singles",
+            "description": "Include the Non-Album Singles in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Song Options"
+        },
+        "include_debut": {
+            "display_name": "Include Debut",
+            "description": "Include her Debut Album (Taylor Swift) in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_fearless": {
+            "display_name": "Include Fearless",
+            "description": "Include the album Fearless in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_fearless_tv": {
+            "display_name": "Include Fearless (Taylor's Version)",
+            "description": "Include the album Fearless (Taylor's Version) in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_speak_now": {
+            "display_name": "Include Speak Now",
+            "description": "Include the album Speak Now in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_speak_now_tv": {
+            "display_name": "Include Speak Now (Taylor's Version)",
+            "description": "Include the album Speak Now (Taylor's Version) in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_red": {
+            "display_name": "Include Red",
+            "description": "Include the album Red in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_red_tv": {
+            "display_name": "Include Red (Taylor's Version)",
+            "description": "Include the album Red (Taylor's Version) in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_1989": {
+            "display_name": "Include 1989",
+            "description": "Include the album 1989 in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_1989_tv": {
+            "display_name": "Include 1989 (Taylor's Version)",
+            "description": "Include the album 1989 (Taylor's Version) in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_reputation": {
+            "display_name": "Include Reputation",
+            "description": "Include the album Reputation in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_lover": {
+            "display_name": "Include Lover",
+            "description": "Include the album Lover in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_folklore": {
+            "display_name": "Include Folklore",
+            "description": "Include the album Folklore in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_evermore": {
+            "display_name": "Include Evermore",
+            "description": "Include the album Evermore in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_midnights": {
+            "display_name": "Include Midnights",
+            "description": "Include the album Midnights in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_ttpd": {
+            "display_name": "Include The Tortured Poets Department",
+            "description": "Include the album The Tortured Poets Department in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        },
+        "include_tloas": {
+            "display_name": "Include The Life of a Showgirl",
+            "description": "Include the album The Life of a Showgirl in the shuffling.",
+            "type": "Toggle",
+            "default": true,
+            "group": "Album Options"
+        }
+    }
+
+}

@@ -1,0 +1,3369 @@
+[
+  {
+    "name": "Tim McGraw",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": [],
+    "sort-key": "deb-1"
+  },
+  {
+    "name": "Picture to Burn",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": [],
+    "sort-key": "deb-2"
+  },
+  {
+    "name": "Teardrops on My Guitar",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": [],
+    "sort-key": "deb-3"
+  },
+  {
+    "name": "A Place in This World",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": [],
+    "sort-key": "deb-4"
+  },
+  {
+    "name": "Cold as You",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": [],
+    "sort-key": "deb-5"
+  },
+  {
+    "name": "The Outside",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": [],
+    "sort-key": "deb-6"
+  },
+  {
+    "name": "Tied Together with a Smile",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": [],
+    "sort-key": "deb-7"
+  },
+  {
+    "name": "Stay Beautiful",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": [],
+    "sort-key": "deb-8"
+  },
+  {
+    "name": "Should've Said No",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": [],
+    "sort-key": "deb-9"
+  },
+  {
+    "name": "Mary's Song (Oh My My My)",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": [],
+    "sort-key": "deb-10"
+  },
+  {
+    "name": "Our Song",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": [],
+    "sort-key": "deb-11"
+  },
+  {
+    "name": "I'm Only Me When I'm With You",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": [],
+    "sort-key": "deb-12"
+  },
+  {
+    "name": "Invisible",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": [],
+    "sort-key": "deb-13"
+  },
+  {
+    "name": "A Perfectly Good Heart",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": [],
+    "sort-key": "deb-14"
+  },
+  {
+    "name": "Teardrops on My Guitar - Pop Version",
+    "region": "Taylor Swift",
+    "category": [
+      "Taylor Swift"
+    ],
+    "requires": [],
+    "sort-key": "deb-15"
+  },
+
+  {
+    "name": "Fearless",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-1"
+  },
+  {
+    "name": "Fifteen",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-2"
+  },
+  {
+    "name": "Love Story",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-3"
+  },
+  {
+    "name": "Hey Stephen",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-4"
+  },
+  {
+    "name": "White Horse",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-5"
+  },
+  {
+    "name": "You Belong With Me",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-6"
+  },
+  {
+    "name": "Breathe (feat. Colbie Caillat)",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-7"
+  },
+  {
+    "name": "Tell Me Why",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-8"
+  },
+  {
+    "name": "You're Not Sorry",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-9"
+  },
+  {
+    "name": "The Way I Loved You",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-10"
+  },
+  {
+    "name": "Forever & Always",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-11"
+  },
+  {
+    "name": "The Best Day",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-12"
+  },
+  {
+    "name": "Change",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-13"
+  },
+  {
+    "name": "Jump Then Fall",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-14"
+  },
+  {
+    "name": "Untouchable",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-15"
+  },
+  {
+    "name": "Forever & Always (Piano Version)",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-16"
+  },
+  {
+    "name": "Come In With The Rain",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-17"
+  },
+  {
+    "name": "Superstar",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-18"
+  },
+  {
+    "name": "The Other Side of the Door",
+    "region": "Fearless",
+    "category": [
+      "Fearless"
+    ],
+    "requires": [],
+    "sort-key": "fear-19"
+  },
+
+  {
+    "name": "Fearless (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-1"
+  },
+  {
+    "name": "Fifteen (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-2"
+  },
+  {
+    "name": "Love Story (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-3"
+  },
+  {
+    "name": "Hey Stephen (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-4"
+  },
+  {
+    "name": "White Horse (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-5"
+  },
+  {
+    "name": "You Belong With Me (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-6"
+  },
+  {
+    "name": "Breathe (feat. Colbie Caillat) (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-7"
+  },
+  {
+    "name": "Tell Me Why (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-8"
+  },
+  {
+    "name": "You're Not Sorry (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-9"
+  },
+  {
+    "name": "The Way I Loved You (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-10"
+  },
+  {
+    "name": "Forever & Always (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-11"
+  },
+  {
+    "name": "The Best Day (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-12"
+  },
+  {
+    "name": "Change (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-13"
+  },
+  {
+    "name": "Jump Then Fall (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-14"
+  },
+  {
+    "name": "Untouchable (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-15"
+  },
+  {
+    "name": "Forever & Always (Piano Version) (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-16"
+  },
+  {
+    "name": "Come In With The Rain (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-17"
+  },
+  {
+    "name": "Superstar (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-18"
+  },
+  {
+    "name": "The Other Side of the Door (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-19"
+  },
+  {
+    "name": "Today Was a Fairytale (Taylor's Version)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "fear-tv-20"
+  },
+  {
+    "name": "You All Over Me (feat. Maren Morris) (Taylor's Version) (From The Vault)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "fear-tv-21"
+  },
+  {
+    "name": "Mr. Perfectly Fine (Taylor's Version) (From The Vault)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "fear-tv-22"
+  },
+  {
+    "name": "We Were Happy (Taylor's Version) (From The Vault)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "fear-tv-23"
+  },
+  {
+    "name": "That's When (Taylor's Version) (From The Vault) (Featuring Keith Urban)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "fear-tv-24"
+  },
+  {
+    "name": "Don't You (Taylor's Version) (From The Vault)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "fear-tv-25"
+  },
+  {
+    "name": "Bye Bye Baby (Taylor's Version) (From The Vault)",
+    "region": "Fearless (Taylor's Version)",
+    "category": [
+      "Fearless (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "fear-tv-26"
+  },
+
+  {
+    "name": "Mine",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-1"
+  },
+  {
+    "name": "Sparks Fly",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-2"
+  },
+  {
+    "name": "Back to December",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-3"
+  },
+  {
+    "name": "Speak Now",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-4"
+  },
+  {
+    "name": "Dear John",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-5"
+  },
+  {
+    "name": "Mean",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-6"
+  },
+  {
+    "name": "The Story of Us",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-7"
+  },
+  {
+    "name": "Never Grow Up",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-8"
+  },
+  {
+    "name": "Enchanted",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-9"
+  },
+  {
+    "name": "Better Than Revenge",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-10"
+  },
+  {
+    "name": "Innocent",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-11"
+  },
+  {
+    "name": "Haunted",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-12"
+  },
+  {
+    "name": "Last Kiss",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-12"
+  },
+  {
+    "name": "Long Live",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-13"
+  },
+  {
+    "name": "Ours",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-14"
+  },
+  {
+    "name": "If This Was A Movie",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-15"
+  },
+  {
+    "name": "Superman",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-16"
+  },
+  {
+    "name": "Back To December - Acoustic",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-17"
+  },
+  {
+    "name": "Haunted - Acoustic Version",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-18"
+  },
+  {
+    "name": "Mine - POP Mix",
+    "region": "Speak Now",
+    "category": [
+      "Speak Now"
+    ],
+    "requires": [],
+    "sort-key": "speak-19"
+  },
+
+  {
+    "name": "Mine (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "speak-tv-1"
+  },
+  {
+    "name": "Sparks Fly (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "speak-tv-2"
+  },
+  {
+    "name": "Back to December (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "speak-tv-3"
+  },
+  {
+    "name": "Speak Now (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "speak-tv-4"
+  },
+  {
+    "name": "Dear John (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "speak-tv-5"
+  },
+  {
+    "name": "Mean (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "speak-tv-6"
+  },
+  {
+    "name": "The Story of Us (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "speak-tv-7"
+  },
+  {
+    "name": "Never Grow Up (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "speak-tv-8"
+  },
+  {
+    "name": "Enchanted (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "speak-tv-9"
+  },
+  {
+    "name": "Better Than Revenge (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "speak-tv-10"
+  },
+  {
+    "name": "Innocent (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "speak-tv-11"
+  },
+  {
+    "name": "Haunted (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "speak-tv-12"
+  },
+  {
+    "name": "Last Kiss (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "speak-tv-13"
+  },
+  {
+    "name": "Ours (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "speak-tv-15"
+  },
+  {
+    "name": "Superman (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "speak-tv-16"
+  },
+  {
+    "name": "Long Live (Taylor's Version)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "speak-tv-14"
+  },
+  {
+    "name": "Electric Touch (feat. Fall Out Boy) (Taylor's Version) (From The Vault)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "speak-tv-17"
+  },
+  {
+    "name": "When Emma Falls in Love (Taylor's Version) (From The Vault)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "speak-tv-18"
+  },
+  {
+    "name": "I Can See You (Taylor's Version) (From The Vault)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "speak-tv-19"
+  },
+  {
+    "name": "Castles Crumbling (feat. Hayley Williams) (Taylor's Version) (From The Vault)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "speak-tv-20"
+  },
+  {
+    "name": "Foolish One (Taylor's Version) (From The Vault)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "speak-tv-21"
+  },
+  {
+    "name": "Timeless (Taylor's Version) (From The Vault)",
+    "region": "Speak Now (Taylor's Version)",
+    "category": [
+      "Speak Now (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "speak-tv-22"
+  },
+
+  {
+    "name": "State of Grace",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-1"
+  },
+  {
+    "name": "Red",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-2"
+  },
+  {
+    "name": "Treacherous",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-3"
+  },
+  {
+    "name": "I Knew You Were Trouble.",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-4"
+  },
+  {
+    "name": "All Too Well",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-5"
+  },
+  {
+    "name": "22",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-6"
+  },
+  {
+    "name": "I Almost Do",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-7"
+  },
+  {
+    "name": "We Are Never Ever Getting Back Together",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-8"
+  },
+  {
+    "name": "Stay Stay Stay",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-9"
+  },
+  {
+    "name": "The Last Time (feat. Gary Lightbody)",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-10"
+  },
+  {
+    "name": "Holy Ground",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-11"
+  },
+  {
+    "name": "Sad Beautiful Tragic",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-12"
+  },
+  {
+    "name": "The Lucky One",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-13"
+  },
+  {
+    "name": "Everything Has Changed (feat. Ed Sheeran)",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-14"
+  },
+  {
+    "name": "Starlight",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-15"
+  },
+  {
+    "name": "Begin Again",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-16"
+  },
+  {
+    "name": "The Moment I Knew",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-17"
+  },
+  {
+    "name": "Come Back... Be Here",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-18"
+  },
+  {
+    "name": "Girl at Home",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-19"
+  },
+  {
+    "name": "Treacherous (original demo recording)",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-20"
+  },
+  {
+    "name": "Red (original demo recording)",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-21"
+  },
+  {
+    "name": "State of Grace (acoustic version)",
+    "region": "Red",
+    "category": [
+      "Red"
+    ],
+    "requires": [],
+    "sort-key": "red-22"
+  },
+
+  {
+    "name": "State of Grace (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-1"
+  },
+  {
+    "name": "Red (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-2"
+  },
+  {
+    "name": "Treacherous (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-3"
+  },
+  {
+    "name": "I Knew You Were Trouble (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-4"
+  },
+  {
+    "name": "All Too Well (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-5"
+  },
+  {
+    "name": "22 (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-6"
+  },
+  {
+    "name": "I Almost Do (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-7"
+  },
+  {
+    "name": "We Are Never Ever Getting Back Together (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-8"
+  },
+  {
+    "name": "Stay Stay Stay (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-9"
+  },
+  {
+    "name": "The Last Time (feat. Gary Lightbody) (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-10"
+  },
+  {
+    "name": "Holy Ground (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-11"
+  },
+  {
+    "name": "Sad Beautiful Tragic (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-12"
+  },
+  {
+    "name": "The Lucky One (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-13"
+  },
+  {
+    "name": "Everything Has Changed (feat. Ed Sheeran) (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-14"
+  },
+  {
+    "name": "Starlight (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-15"
+  },
+  {
+    "name": "Begin Again (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-16"
+  },
+  {
+    "name": "The Moment I Knew (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-17"
+  },
+  {
+    "name": "Come Back... Be Here (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-18"
+  },
+  {
+    "name": "Girl at Home (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-19"
+  },
+  {
+    "name": "State of Grace (Acoustic Version) (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "red-tv-20"
+  },
+  {
+    "name": "Ronan (Taylor's Version)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": "",
+    "sort-key": "red-tv-21"
+  },
+  {
+    "name": "Better Man (Taylor's Version) (From The Vault)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-22"
+  },
+  {
+    "name": "Nothing New (feat. Phoebe Bridgers) (Taylor's Version) (From The Vault)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-23"
+  },
+  {
+    "name": "Babe (Taylor's Version) (From The Vault)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-24"
+  },
+  {
+    "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-25"
+  },
+  {
+    "name": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor's Version) (From The Vault)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-26"
+  },
+  {
+    "name": "Forever Winter (Taylor's Version) (From The Vault)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-27"
+  },
+  {
+    "name": "Run (feat. Ed Sheeran) (Taylor's Version) (From The Vault)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-28"
+  },
+  {
+    "name": "The Very First Night (Taylor's Version) (From The Vault)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-29"
+  },
+  {
+    "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+    "region": "Red (Taylor's Version)",
+    "category": [
+      "Red (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "red-tv-30"
+  },
+
+  {
+    "name": "Welcome to New York",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-1"
+  },
+  {
+    "name": "Blank Space",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-2"
+  },
+  {
+    "name": "Style",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-3"
+  },
+  {
+    "name": "Out of the Woods",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-4"
+  },
+  {
+    "name": "All You Had to Do Was Stay",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-5"
+  },
+  {
+    "name": "Shake It Off",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-6"
+  },
+  {
+    "name": "I Wish You Would",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-7"
+  },
+  {
+    "name": "Bad Blood",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-8"
+  },
+  {
+    "name": "Wildest Dreams",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-9"
+  },
+  {
+    "name": "How You Get the Girl",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-10"
+  },
+  {
+    "name": "This Love",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-11"
+  },
+  {
+    "name": "I Know Places",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-12"
+  },
+  { "name": "Clean",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-13"
+  },
+  { "name": "Wonderland",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-14"
+  },
+  {
+    "name": "You Are in Love",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-15"
+  },
+  {
+    "name": "New Romantics",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-16"
+  },
+  {
+    "name": "I Know Places - Voice Memo",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-17"
+  },
+  {
+    "name": "I Wish You Would - Voice Memo",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-18"
+  },
+  {
+    "name": "Blank Space - Voice Memo",
+    "region": "1989",
+    "category": [
+      "1989"
+    ],
+    "requires": [],
+    "sort-key": "1989-19"
+  },
+
+  {
+    "name": "Welcome to New York (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-1"
+  },
+  {
+    "name": "Blank Space (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-2"
+  },
+  {
+    "name": "Style (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-3"
+  },
+  {
+    "name": "Out of the Woods (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-4"
+  },
+  {
+    "name": "All You Had to Do Was Stay (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-5"
+  },
+  {
+    "name": "Shake It Off (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-6"
+  },
+  {
+    "name": "I Wish You Would (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-7"
+  },
+  {
+    "name": "Bad Blood (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-8"
+  },
+  {
+    "name": "Wildest Dreams (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-9"
+  },
+  {
+    "name": "How You Get the Girl (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-10"
+  },
+  {
+    "name": "This Love (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-11"
+  },
+  {
+    "name": "I Know Places (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-12"
+  },
+  {
+    "name": "Clean (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-13"
+  },
+  {
+    "name": "Wonderland (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-14"
+  },
+  {
+    "name": "You Are in Love (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-15"
+  },
+  {
+    "name": "New Romantics (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": [],
+    "sort-key": "1989-tv-16"
+  },
+  {
+    "name": "\"Slut!\" (Taylor's Version) (From The Vault)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "1989-tv-17"
+  },
+  {
+    "name": "Say Don't Go (Taylor's Version) (From The Vault)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "1989-tv-18"
+  },
+  {
+    "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "1989-tv-19"
+  },
+  {
+    "name": "Suburban Legends (Taylor's Version) (From The Vault)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "1989-tv-20"
+  },
+  {
+    "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings",
+      "Vault Tracks"
+    ],
+    "requires": "|Vault Tracks|",
+    "sort-key": "1989-tv-21"
+  },
+  {
+    "name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
+    "region": "1989 (Taylor's Version)",
+    "category": [
+      "1989 (Taylor's Version)",
+      "Re-recordings"
+    ],
+    "requires": "",
+    "sort-key": "1989-tv-22"
+  },
+
+  {
+    "name": "...Ready for It?",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": [],
+    "sort-key": "rep-1"
+  },
+  {
+    "name": "End Game (feat. Ed Sheeran & Future)",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": [],
+    "sort-key": "rep-2"
+  },
+  {
+    "name": "I Did Something Bad",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": [],
+    "sort-key": "rep-3"
+  },
+  {
+    "name": "Don't Blame Me",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": [],
+    "sort-key": "rep-4"
+  },
+  {
+    "name": "Delicate",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": [],
+    "sort-key": "rep-5"
+  },
+  {
+    "name": "Look What You Made Me Do",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": [],
+    "sort-key": "rep-6"
+  },
+  {
+    "name": "So It Goes...",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": [],
+    "sort-key": "rep-7"
+  },
+  {
+    "name": "Gorgeous",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": [],
+    "sort-key": "rep-8"
+  },
+  {
+    "name": "Getaway Car",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": [],
+    "sort-key": "rep-9"
+  },
+  {
+    "name": "King of My Heart",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": [],
+    "sort-key": "rep-10"
+  },
+  {
+    "name": "Dancing with Our Hands Tied",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": [],
+    "sort-key": "rep-11"
+  },
+  {
+    "name": "Dress",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": [],
+    "sort-key": "rep-12"
+  },
+  {
+    "name": "This Is Why We Can't Have Nice Things",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": [],
+    "sort-key": "rep-13"
+  },
+  {
+    "name": "Call It What You Want",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": [],
+    "sort-key": "rep-14"
+  },
+  {
+    "name": "New Year's Day",
+    "region": "Reputation",
+    "category": [
+      "Reputation"
+    ],
+    "requires": [],
+    "sort-key": "rep-15"
+  },
+
+
+  {
+    "name": "I Forgot That You Existed",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-1"
+  },
+  {
+    "name": "Cruel Summer",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-2"
+  },
+  {
+    "name": "Lover",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-3"
+  },
+  {
+    "name": "The Man",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-4"
+  },
+  {
+    "name": "The Archer",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-5"
+  },
+  {
+    "name": "I Think He Knows",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-6"
+  },
+  {
+    "name": "Miss Americana & The Heartbreak Prince",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-7"
+  },
+  {
+    "name": "Paper Rings",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-8"
+  },
+  {
+    "name": "Cornelia Street",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-9"
+  },
+  {
+    "name": "Death By A Thousand Cuts",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-10"
+  },
+  {
+    "name": "London Boy",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-11"
+  },
+  {
+    "name": "Soon You'll Get Better (feat. Dixie Chicks)",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-12"
+  },
+  {
+    "name": "False God",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-13"
+  },
+  {
+    "name": "You Need to Calm Down",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-14"
+  },
+  {
+    "name": "Afterglow",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-15"
+  },
+  {
+    "name": "ME! (feat. Brendon Urie)",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-16"
+  },
+  {
+    "name": "It's Nice to Have a Friend",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-17"
+  },
+  {
+    "name": "Daylight",
+    "region": "Lover",
+    "category": [
+      "Lover"
+    ],
+    "requires": [],
+    "sort-key": "love-18"
+  },
+
+  {
+    "name": "the 1",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-1"
+  },
+  {
+    "name": "cardigan",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-2"
+  },
+  {
+    "name": "the last great american dynasty",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-3"
+  },
+  {
+    "name": "exile (feat. Bon Iver)",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-4"
+  },
+  {
+    "name": "my tears ricochet",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-5"
+  },
+  {
+    "name": "mirrorball",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-6"
+  },
+  {
+    "name": "seven",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-7"
+  },
+  {
+    "name": "august",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-8"
+  },
+  {
+    "name": "this is me trying",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-9"
+  },
+  {
+    "name": "illicit affairs",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-10"
+  },
+  {
+    "name": "invisible string",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-11"
+  },
+  {
+    "name": "mad woman",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-12"
+  },
+  {
+    "name": "epiphany",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-13"
+  },
+  {
+    "name": "betty",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-14"
+  },
+  {
+    "name": "peace",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-15"
+  },
+  {
+    "name": "hoax",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-16"
+  },
+  {
+    "name": "the lakes (bonus track)",
+    "region": "Folklore",
+    "category": [
+      "Folklore"
+    ],
+    "requires": [],
+    "sort-key": "folk-17"
+  },
+
+  {
+    "name": "willow",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-1"
+  },
+  {
+    "name": "champagne problems",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-2"
+  },
+  {
+    "name": "gold rush",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-3"
+  },
+  {
+    "name": "'tis the damn season",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-4"
+  },
+  {
+    "name": "tolerate it",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-5"
+  },
+  {
+    "name": "no body, no crime (feat. HAIM)",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-6"
+  },
+  {
+    "name": "happiness",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-7"
+  },
+  {
+    "name": "dorothea",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-8"
+  },
+  {
+    "name": "coney island (feat. The National)",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-9"
+  },
+  {
+    "name": "ivy",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-10"
+  },
+  {
+    "name": "cowboy like me",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-11"
+  },
+  {
+    "name": "long story short",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-12"
+  },
+  {
+    "name": "marjorie",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-13"
+  },
+  {
+    "name": "closure",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-14"
+  },
+  {
+    "name": "evermore (feat. Bon Iver)",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-15"
+  },
+  {
+    "name": "right where you left me (bonus track)",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-16"
+  },
+  {
+    "name": "it's time to go (bonus track)",
+    "region": "Evermore",
+    "category": [
+      "Evermore"
+    ],
+    "requires": [],
+    "sort-key": "ever-17"
+  },
+
+  {
+    "name": "Lavender Haze",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-1"
+  },
+  {
+    "name": "Maroon",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-2"
+  },
+  {
+    "name": "Anti-Hero",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-3"
+  },
+  {
+    "name": "Snow On The Beach (feat. Lana Del Rey)",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-4"
+  },
+  {
+    "name": "You're On Your Own, Kid",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-5"
+  },
+  {
+    "name": "Midnight Rain",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-6"
+  },
+  {
+    "name": "Question...?",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-7"
+  },
+  {
+    "name": "Vigilante Shit",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-8"
+  },
+  {
+    "name": "Bejeweled",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-9"
+  },
+  {
+    "name": "Labyrinth",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-10"
+  },
+  {
+    "name": "Karma",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-11"
+  },
+  {
+    "name": "Sweet Nothing",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-12"
+  },
+  {
+    "name": "Mastermind",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-13"
+  },
+  {
+    "name": "The Great War",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-14"
+  },
+  {
+    "name": "Bigger Than The Whole Sky",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-15"
+  },
+  {
+    "name": "Paris",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-16"
+  },
+  {
+    "name": "High Infidelity",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-17"
+  },
+  {
+    "name": "Glitch",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-18"
+  },
+  {
+    "name": "Would've, Could've, Should've",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-19"
+  },
+  {
+    "name": "Dear Reader",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-20"
+  },
+  {
+    "name": "Hits Different",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-21"
+  },
+  {
+    "name": "Snow On The Beach (feat. More Lana Del Rey)",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-22"
+  },
+  {
+    "name": "Karma (feat. Ice Spice)",
+    "region": "Midnights",
+    "category": [
+      "Midnights"
+    ],
+    "requires": [],
+    "sort-key": "mid-23"
+  },
+
+
+  {
+    "name": "Fortnight (feat. Post Malone)",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-1"
+  },
+  {
+    "name": "The Tortured Poets Department",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-2"
+  },
+  {
+    "name": "My Boy Only Breaks His Favorite Toys",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-3"
+  },
+  {
+    "name": "Down Bad",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-4"
+  },
+  {
+    "name": "So Long, London",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-5"
+  },
+  {
+    "name": "But Daddy I Love Him",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-6"
+  },
+  {
+    "name": "Fresh Out the Slammer",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-7"
+  },
+  {
+    "name": "Florida!!! (feat. Florence + The Machine)",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-8"
+  },
+  {
+    "name": "Guilty as Sin?",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-9"
+  },
+  {
+    "name": "Who's Afraid of Little Old Me?",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-10"
+  },
+  {
+    "name": "I Can Fix Him (No Really I Can)",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-11"
+  },
+  {
+    "name": "loml",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-12"
+  },
+  {
+    "name": "I Can Do It With a Broken Heart",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-13"
+  },
+  {
+    "name": "The Smallest Man Who Ever Lived",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-14"
+  },
+  {
+    "name": "The Alchemy",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-15"
+  },
+  {
+    "name": "Clara Bow",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-16"
+  },
+  {
+    "name": "The Black Dog",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-17"
+  },
+  {
+    "name": "imgonnagetyouback",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-18"
+  },
+  {
+    "name": "The Albatross",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-19"
+  },
+  {
+    "name": "Chloe or Sam or Sophia or Marcus",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-20"
+  },
+  {
+    "name": "How Did It End?",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-21"
+  },
+  {
+    "name": "So High School",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-22"
+  },
+  {
+    "name": "I Hate It Here",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-23"
+  },
+  {
+    "name": "thanK you aIMee",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-24"
+  },
+  {
+    "name": "I Look in People's Windows",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-25"
+  },
+  {
+    "name": "The Prophecy",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-26"
+  },
+  {
+    "name": "Cassandra",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-27"
+  },
+  {
+    "name": "Peter",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-28"
+  },
+  {
+    "name": "The Bolter",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-29"
+  },
+  {
+    "name": "Robin",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-30"
+  },
+  {
+    "name": "The Manuscript",
+    "region": "The Tortured Poets Department",
+    "category": [
+      "The Tortured Poets Department"
+    ],
+    "requires": [],
+    "sort-key": "tort-31"
+  },
+
+  {
+    "name": "The Fate of Ophelia",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-1"
+  },
+
+  {
+    "name": "Elizabeth Taylor",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-2"
+  },
+
+  {
+    "name": "Opalite",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-3"
+  },
+
+  {
+    "name": "Father Figure",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-4"
+  },
+
+  {
+    "name": "Eldest Daughter",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-5"
+  },
+
+  {
+    "name": "Ruin The Friendship",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-6"
+  },
+
+  {
+    "name": "Actually Romantic",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-7"
+  },
+
+  {
+    "name": "Wi$h Li$t",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-8"
+  },
+
+  {
+    "name": "Wood",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-9"
+  },
+
+  {
+    "name": "CANCELLED!",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-10"
+  },
+
+  {
+    "name": "Honey",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-11"
+  },
+
+  {
+    "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-12"
+  },
+
+  {
+    "name": "Patient Zero",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-13"
+  },
+
+  {
+    "name": "Cleveland!",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-14"
+  },
+
+  {
+    "name": "Pink Clouding",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-15"
+  },
+
+  {
+    "name": "Babylon",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-16"
+  },
+
+  {
+    "name": "The Fate of Ophelia - Alone In My Tower Acoustic Version",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-17"
+  },
+
+  {
+    "name": "Elizabeth Taylor - So Glamorous Cabaret Version",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-18"
+  },
+
+  {
+    "name": "Opalite - Life Is A Song Acoustic Version",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-19"
+  },
+
+  {
+    "name": "Eldest Daughter - Now You're Home Acoustic Version",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-20"
+  },
+
+  {
+    "name": "Ruin The Friendship - My Advice Version",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-21"
+  },
+
+  {
+    "name": "Wi$h Li$t - Settled Down Acoustic Version",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-22"
+  },
+
+  {
+    "name": "The Life of a Showgirl (feat. Sabrina Carpenter) - Dressing Room Rehearsal Version",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "show-23"
+  },
+
+  {
+    "name": "Patient Zero - Piano Version",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "sing-24"
+  },
+
+  {
+    "name": "Patient Zero - Acoustic Version",
+    "region": "The Life of a Showgirl",
+    "category": [
+      "The Life of a Showgirl"
+    ],
+    "requires": [],
+    "sort-key": "sing-25"
+  },
+
+  {
+    "name": "Crazier",
+    "region": "Singles",
+    "category": [
+      "Singles"
+    ],
+    "requires": [],
+    "sort-key": "sing-1"
+  },
+
+  {
+    "name": "Sweeter Than Fiction",
+    "region": "Singles",
+    "category": [
+      "Singles"
+    ],
+    "requires": [],
+    "sort-key": "sing-2"
+  },
+
+  {
+    "name": "All Of The Girls You Loved Before",
+    "region": "Singles",
+    "category": [
+      "Singles"
+    ],
+    "requires": [],
+    "sort-key": "sing-3"
+  },
+
+  {
+    "name": "Only The Young - Featured in Miss Americana",
+    "region": "Singles",
+    "category": [
+      "Singles"
+    ],
+    "requires": [],
+    "sort-key": "sing-4"
+  },
+
+  {
+    "name": "If This Was A Movie (Taylor's Version)",
+    "region": "Singles",
+    "category": [
+      "Singles",
+      "Re-recordings"
+    ],
+    "requires": "|Re-recordings|",
+    "sort-key": "sing-5"
+  },
+
+  {
+    "name": "Safe & Sound (Taylor's Version)",
+    "region": "Singles",
+    "category": [
+      "Singles",
+      "Re-recordings"
+    ],
+    "requires": "|Re-recordings|",
+    "sort-key": "sing-6"
+  },
+
+  {
+    "name": "Eyes Open (Taylor's Version)",
+    "region": "Singles",
+    "category": [
+      "Singles",
+      "Re-recordings"
+    ],
+    "requires": "|Re-recordings|",
+    "sort-key": "sing-7"
+  },
+
+  {
+    "name": "Carolina - From The Motion Picture \"Where The Crawdads Sing\"",
+    "region": "Singles",
+    "category": [
+      "Singles"
+    ],
+    "requires": [],
+    "sort-key": "sing-8"
+  },
+
+  {
+    "name": "You're Losing Me (From The Vault)",
+    "region": "Singles",
+    "category": [
+      "Singles",
+      "Vault Tracks"
+    ],
+    "requires": [],
+    "sort-key": "sing-9"
+  },
+
+  {
+    "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
+    "region": "Singles",
+    "category": [
+      "Singles"
+    ],
+    "requires": [],
+    "sort-key": "sing-10"
+  },
+
+  {
+    "name": "I Knew It, I Knew You - Piano Version (From \"Toy Story 5\")",
+    "region": "Singles",
+    "category": [
+      "Singles"
+    ],
+    "requires": [],
+    "sort-key": "sing-11"
+  },
+
+  {
+    "name": "I Knew It, I Knew You - Acoustic Version (From \"Toy Story 5\")",
+    "region": "Singles",
+    "category": [
+      "Singles"
+    ],
+    "requires": [],
+    "sort-key": "sing-12"
+  },
+
+  {
+    "name": "Victory",
+    "category": [
+      "Victory"
+    ],
+    "victory": true,
+    "requires": "{OptAll(|Taylor Swift| AND |Fearless| AND |Fearless (Taylor's Version)| AND |Speak Now| AND |Speak Now (Taylor's Version)| AND |Red| AND |Red (Taylor's Version)| AND |1989| AND |1989 (Taylor's Version)| AND |Reputation| AND |Lover| AND |Folklore| AND |Evermore| AND |Midnights| AND |The Tortured Poets Department| AND |The Life of a Showgirl| AND |Vault Tracks| AND |Re-recordings| AND |Singles|)}"
+  }
+]
